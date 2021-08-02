@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = lucas98martelli@hotmail.com
+	name = Lucas Martelli
